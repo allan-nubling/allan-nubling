@@ -2,7 +2,7 @@
 
 
 ### About
-Estudante de engenharia de software porém um apaixonado por aventuras pelo desconhecido buscando conhecimentos novos.
+Estudante de engenharia de software,apaixonado por aventuras pelo desconhecido e buscando novos conhecimentos.
 
 ### Main-Projects
 
@@ -33,4 +33,4 @@ Estudante de engenharia de software porém um apaixonado por aventuras pelo desc
 - Jest, Supertest, Github-Actions.
 
 ### Thanks!
-Muito obrigado por ler até aqui, isso tudo é um resumo do que eu fiz/faço, mas como eu disse no inicío, a busca pelo desconhecido não para, este é apenas o começo.
+Muito obrigado por ler até aqui, isso tudo é um resumo do que eu fiz/faço, mas como eu disse no inicío, a busca pelo conhecimento não para, este é apenas o começo.

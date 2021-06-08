@@ -10,7 +10,7 @@ Estudante de engenharia de software,apaixonado por aventuras pelo desconhecido e
 - Nas horas vagas desenvolvedor full-stack em [nBot](https://chrome.google.com/webstore/detail/gladiatus-nbot/npfihoncaeggchfpldnmodmdajngpjib), extenção de navegador para automação de um jogo de estratégia (bot).
 
 ### Soft-Skills
-  - Proavidade;
+  - Proavtidade;
   - Organização;
   - Facilidade de adaptação;
   - Trabalho em equipe.

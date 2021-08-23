@@ -6,7 +6,7 @@ Estudante de engenharia de software,apaixonado por aventuras pelo desconhecido e
 
 ### Main-Projects
 
-- Atualmente desenvolvedor full-stack na Zaply, tech-startup com foco no produto [Recipe2Basket](https://recipe2basket.com/), um SaaS que realiza a conexão entre conteúdo de receitas e o carrinho no e-commerce dos varejistas.
+- Atualmente desenvolvedor full-stack na Fortbrasil, alocado no squad de prevenção à fraude, desenvolvendo sistemas internos para validação de regras de prevenção e detecção em tempo real de fraudes nos serviços prestados pela empresa.
 - Nas horas vagas desenvolvedor full-stack em [nBot](https://chrome.google.com/webstore/detail/gladiatus-nbot/npfihoncaeggchfpldnmodmdajngpjib), extenção de navegador para automação de um jogo de estratégia (bot).
 
 ### Soft-Skills

@@ -6,8 +6,7 @@ Estudante de engenharia de software,apaixonado por aventuras pelo desconhecido e
 
 ### Main-Projects
 
-- Atualmente desenvolvedor full-stack na Fortbrasil, alocado no squad de prevenção à fraude, desenvolvendo sistemas internos para validação de regras de prevenção e detecção em tempo real de fraudes nos serviços prestados pela empresa.
-- Nas horas vagas desenvolvedor full-stack em [nBot](https://chrome.google.com/webstore/detail/gladiatus-nbot/npfihoncaeggchfpldnmodmdajngpjib), extenção de navegador para automação de um jogo de estratégia (bot).
+- Atualmente Tech-Lead na Fortbrasil, aqui ajudo outros desenvolvedores a pensar e implementar as soluções necessárias para a evolução dos sistemas. Também trabalho no desenvolvimento da arquitetura dos sistemas da empresa como um todo.
 
 ### Soft-Skills
   - Proatividade;
@@ -18,11 +17,10 @@ Estudante de engenharia de software,apaixonado por aventuras pelo desconhecido e
 ### Knowledge
 ####  Backend:
 - Javascript, Typescrypt, Python;
-- NodeJS, Express, AdonisJS, FastAPI;
-- TypeORM, Sequelize, Knex;
-- MySQL, Postgres.
+- NodeJS, Express, NestJS;
+- Redis, RabbitMQ, ServiceBus;
+- MySQL, Postgres, MSSQL.
 #### Front:
-- Javascript, Typescrypt, HTML, CSS;
 - React, Gatsby, Next.Js;
 - Gulp, Babel, Webpack.
 #### Data-Science & Machine-Learning:

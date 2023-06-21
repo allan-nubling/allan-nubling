@@ -6,7 +6,7 @@ Estudante de engenharia de software,apaixonado por aventuras pelo desconhecido e
 
 ### Main-Projects
 
-- Atualmente Tech-Lead na Fortbrasil, aqui ajudo outros desenvolvedores a pensar e implementar as soluções necessárias para a evolução dos sistemas. Também trabalho no desenvolvimento da arquitetura dos sistemas da empresa como um todo.
+- Atualmente Tech-Lead na Fortbrasil, aqui ajudo outros desenvolvedores a pensar e implementar as soluções necessárias para a evolução dos sistemas. Também ajudo no desenvolvimento da arquitetura dos sistemas da empresa como um todo.
 
 ### Soft-Skills
   - Proatividade;
